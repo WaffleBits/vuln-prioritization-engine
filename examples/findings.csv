@@ -1,0 +1,23 @@
+asset_id,cve,first_seen,cvss_vector,source
+A-001,CVE-2024-3400,2026-10-28,,network scan
+A-002,CVE-2021-44228,2026-09-15,,network scan
+A-002,CVE-2022-22965,2026-10-02,,network scan
+A-002,CVE-2023-44487,2026-10-20,,network scan
+A-002,CVE-2019-11358,2026-08-30,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,web app scan
+A-003,CVE-2021-26855,2026-11-03,,network scan
+A-004,CVE-2020-1472,2026-11-05,,credentialed scan
+A-005,CVE-2017-0144,2026-07-21,,credentialed scan
+A-006,CVE-2024-6387,2026-10-11,,credentialed scan
+A-006,CVE-2023-38545,2026-10-11,,software composition scan
+A-006,CVE-2020-8203,2026-09-01,,software composition scan
+A-006,CVE-2018-15473,2026-06-14,,credentialed scan
+A-007,CVE-2022-0778,2026-09-22,,credentialed scan
+A-007,CVE-2023-0286,2026-09-22,,credentialed scan
+A-008,CVE-2023-4863,2026-11-08,,credentialed scan
+A-008,CVE-2021-3449,2026-08-02,,credentialed scan
+A-006,CVE-2022-40897,2026-10-25,,software composition scan
+A-006,CVE-2023-32681,2026-10-25,,software composition scan
+A-006,CVE-2024-35195,2026-10-25,,software composition scan
+A-007,CVE-2023-2650,2026-11-01,,credentialed scan
+A-008,CVE-2023-45803,2026-11-02,,software composition scan
+A-005,CVE-2023-5678,2026-10-30,,credentialed scan

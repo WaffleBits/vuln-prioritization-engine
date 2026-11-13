@@ -1,0 +1,9 @@
+asset_id,hostname,environment,internet_facing,criticality,owner
+A-001,vpn-gw-01,edge,yes,high,Network Team
+A-002,web-01,prod,yes,high,Web Platform Team
+A-003,mail-01,prod,yes,moderate,Messaging Team
+A-004,dc-01,prod,no,high,Identity Team
+A-005,file-01,prod,no,moderate,Infrastructure Team
+A-006,build-01,dev,no,moderate,DevOps Team
+A-007,db-01,prod,no,high,Data Team
+A-008,wks-114,corp,no,low,Desktop Support
